@@ -1,9 +1,9 @@
-# Rainfall_thresholds_for_shallow_landslide
+# PISCOpd_PacRF
+The PISCOpd_PacRF product (Millán and Lavado, 2021) was developed using rain gauges data of SENAMHI, precipitation daily IMERG Early gridded data and Monthly Climatology of SENAMHI as spacio-temporal covariables (0.1º x 0.1º), and spacio-ambiental covariables (DEM, Slope, Aspect, Longitud and Latitud). The metodology is based on RF-MEP (Baez-Villanueva et al., 2020).
 
-Code of Rainfall thresholds for landslides
-Este repositorio contiene el codigo y datos de ejemplo para la estimación de umbrales de lluvia desencadenantes de shallow landslides.
-La base de datos en este repositorio es la combinación de SENAMHI’s of Rainfall-Triggered Shallow Landslides Inventory of Peru ([SLIP](https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b)) y el Global Landslide Catalog para Perú de la NASA ([GLC](https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog/h9d8-neg4)).
+This new product contains a precipitacion daily data from January 2014 to December 2020 with 0.05° x 0.05° gridded resolution. And the purpouse of this product is support warning systems for basins located throughout Pacific region in Peru.
 
+This product will be updated daily on SENAMHI servers to support operative products in the region.
 
 ### References
-Millan, C., W. Lavado-Casimiro (2022). SENAMHI’s of Rainfall-Triggered Shallow Landslides Inventory of Peru (SLIP), HydroShare, https://doi.org/10.4211/hs.a7eb980e1a0545b497cd1f1a1530590b
+Millan-Arancibia, Carlos; Lavado-Casimiro, Waldo (2022): PISCOpd_PacRF_14-20.nc. figshare. Dataset. https://doi.org/10.6084/m9.figshare.17304272.v2 
