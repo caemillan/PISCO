@@ -1,5 +1,5 @@
 # PISCOpd_PacRF
-The PISCOpd_PacRF product (Millán and Lavado, 2021) was developed using rain gauges data of SENAMHI, precipitation daily IMERG Early gridded data and Monthly Climatology of SENAMHI as spacio-temporal covariables (0.1º x 0.1º), and spacio-ambiental covariables (DEM, Slope, Aspect, Longitud and Latitud). The metodology is based on RF-MEP (Baez-Villanueva et al., 2020).
+The PISCOpd_PacRF product (Millán and Lavado, 2022) was developed using rain gauges data of SENAMHI, precipitation daily IMERG Early gridded data and Monthly Climatology of SENAMHI as spacio-temporal covariables (0.1º x 0.1º), and spacio-ambiental covariables (DEM, Slope, Aspect, Longitud and Latitud). The metodology is based on RF-MEP (Baez-Villanueva et al., 2020).
 
 This new product contains a precipitacion daily data from January 2014 to December 2020 with 0.05° x 0.05° gridded resolution. And the purpouse of this product is support warning systems for basins located throughout Pacific region in Peru.
 
