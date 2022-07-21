@@ -5,5 +5,7 @@ This new product contains a precipitacion daily data from January 2014 to Decemb
 
 This product will be updated daily on SENAMHI servers to support operative products in the region.
 
+![Alt Text](https://github.com/caemillan/PISCOpd_PacRF/blob/main/data/prec.gif)
+
 ### References
 Millan-Arancibia, Carlos; Lavado-Casimiro, Waldo (2022): PISCOpd_PacRF_14-20.nc. figshare. Dataset. https://doi.org/10.6084/m9.figshare.17304272.v2 
